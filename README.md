@@ -2,7 +2,7 @@
 
 ## Project Objective
 
-Analyze how Bitcoin market sentiment (Fear & Greed Index) affects trader behavior and performance on Hyperliquid.
+Analyze how market sentiment (Fear & Greed Index) affects trader behavior and performance on Hyperliquid.
 
 ---
 
