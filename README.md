@@ -95,4 +95,4 @@ jupyter notebook
 
 ## Author
 
-Your Name
+Pritish Sharma
